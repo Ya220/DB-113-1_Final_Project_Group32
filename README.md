@@ -7,7 +7,7 @@
 1.環境需求
 - 3.8 或以上
 - PostgreSQL 12 或以上
-- 需要安裝套件 flask、flask_cors、psycopg2、datetime
+- 需要安裝套件 flask、flask_cors、psycopg2、datetime  
 2.安裝步驟
   1.下載專案
 
