@@ -5,11 +5,14 @@
 
 ## 安裝說明
 1.環境需求
-- 3.8 或以上
+- Python 3.8 或以上
 - PostgreSQL 12 或以上
 - 需要安裝套件 flask、flask_cors、psycopg2、datetime  
 2.安裝步驟
-  1.下載專案
+- 下載專案資料
+- 安裝需要的套件、環境
+- 設置資料庫
+- 更改 app.py 跟資料庫的連線資料
+- 執行 app.py
+- 打開 inidex.html 即可開始使用
 
-
-##
